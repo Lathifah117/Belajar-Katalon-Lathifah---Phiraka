@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User can access Phiro HCMS section on Home page Phiraka</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>628983e1-821e-409d-91dd-62f657eb5f65</testCaseGuid>
+</TestCaseEntity>

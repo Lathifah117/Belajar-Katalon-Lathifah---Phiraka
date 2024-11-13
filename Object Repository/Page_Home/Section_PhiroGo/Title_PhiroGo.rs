@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_PhiroGo</name>
+   <tag></tag>
+   <elementGuidId>967192dc-4a61-4e30-866c-4706f29c0fee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='tabs-1']/div[2]/div/div/div/div/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.section-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Digitize Every HR Process, Enhance Efficiency&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>f1237bc3-2676-4e49-b800-943917b30393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-title</value>
+      <webElementGuid>a8ce144d-1cae-45e0-a8b5-f506f5d7e8d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Digitize Every HR Process, Enhance Efficiency</value>
+      <webElementGuid>0639ed30-c98b-49e8-8601-e6a6c1dc76f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs-1&quot;)/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-99416aa&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-3621050 cea-align-left elementor-widget elementor-widget-ceasectiontitle&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;section-title-wrapper&quot;]/div[@class=&quot;title-wrap&quot;]/h4[@class=&quot;section-title&quot;]</value>
+      <webElementGuid>85b50245-93c2-437e-a1ee-283ea8287edc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='tabs-1']/div[2]/div/div/div/div/div/div/h4</value>
+      <webElementGuid>63c5a2fb-65a9-4db1-a2ef-82756268ee55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phiro Class'])[2]/following::h4[1]</value>
+      <webElementGuid>f6511563-15b2-4eb1-b549-7d2077ee5d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phiro Edu Board'])[2]/following::h4[1]</value>
+      <webElementGuid>daa754be-eb67-4dfa-af75-c7058d1ed437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage employee absenteeism'])[1]/preceding::h4[1]</value>
+      <webElementGuid>a678db47-bfee-4675-b509-d5b671e28182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee self service submission'])[1]/preceding::h4[1]</value>
+      <webElementGuid>59e7be10-0ded-49b8-adac-053b4b01cbba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Digitize Every HR Process, Enhance Efficiency']/parent::*</value>
+      <webElementGuid>588ed8c8-b5d7-4960-95ca-81a6710748b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/h4</value>
+      <webElementGuid>998050ed-446a-4f75-a4fb-44f670da65d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Digitize Every HR Process, Enhance Efficiency' or . = 'Digitize Every HR Process, Enhance Efficiency')]</value>
+      <webElementGuid>3cad1b18-c66d-4bf1-b41f-86c2385ce365</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

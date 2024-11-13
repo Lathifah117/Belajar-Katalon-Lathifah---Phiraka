@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_PhiroHCMS</name>
+   <tag></tag>
+   <elementGuidId>a8e132b8-f7eb-479a-ab51-d968706b2809</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='tabs-2']/div[2]/div/div/div/div/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.elementor-element.elementor-element-4d88ac2.cea-align-left.elementor-widget.elementor-widget-ceasectiontitle > div.elementor-widget-container > div.section-title-wrapper > div.title-wrap > h4.section-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;HR Solutions Crafted to Your Business Needs&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>4f47e36e-a785-43f8-abbf-59091bdcca65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section-title</value>
+      <webElementGuid>959fde79-29fc-4b25-8455-1fd455db8fc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HR Solutions Crafted to Your Business Needs</value>
+      <webElementGuid>1e4a0445-215c-423a-a1ae-8e766e209c8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs-2&quot;)/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f28ff44&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-4d88ac2 cea-align-left elementor-widget elementor-widget-ceasectiontitle&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;section-title-wrapper&quot;]/div[@class=&quot;title-wrap&quot;]/h4[@class=&quot;section-title&quot;]</value>
+      <webElementGuid>ea10c86b-7cc0-4be0-9a91-61cfd2cf1e78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='tabs-2']/div[2]/div/div/div/div/div/div/h4</value>
+      <webElementGuid>0f82cac7-beb5-4eb0-9a06-fe71c7cda072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More about Phiro GO'])[1]/following::h4[1]</value>
+      <webElementGuid>1878300a-cd65-4c65-8d2a-2cee3d742604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile App'])[1]/following::h4[1]</value>
+      <webElementGuid>7f82bbc9-87c8-4f36-979d-02b7a0cb815c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee data management'])[1]/preceding::h4[1]</value>
+      <webElementGuid>aa53949e-9a8a-4f3b-a829-9f3fd807b741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HR Solutions Crafted to Your Business Needs']/parent::*</value>
+      <webElementGuid>b28f8d64-1119-4fbf-8678-03f3009a77e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section/div[2]/div/div/div/div/div/div/h4</value>
+      <webElementGuid>419f3588-6739-4557-b441-c42b1f6d5378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'HR Solutions Crafted to Your Business Needs' or . = 'HR Solutions Crafted to Your Business Needs')]</value>
+      <webElementGuid>9dd2101e-bde1-42ae-8f51-121460d7a794</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User can Login on Demo Katalon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c48012c9-450c-4ed2-9e83-783c1b340907</testCaseGuid>
+</TestCaseEntity>

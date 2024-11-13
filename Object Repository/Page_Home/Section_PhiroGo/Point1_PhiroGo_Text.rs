@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Point1_PhiroGo_Text</name>
+   <tag></tag>
+   <elementGuidId>f567a41a-2f82-4214-ac4e-aadca6ec6eac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='tabs-1']/div[2]/div/div/div[2]/div/div/div[2]/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h6.feature-box-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Manage employee absenteeism&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>986a74ff-db7f-4d2b-b376-065180aab7ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>feature-box-title</value>
+      <webElementGuid>053f3b45-27d3-45dd-b470-0c01447d4ea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage employee absenteeism</value>
+      <webElementGuid>6ce369cc-c8e0-495e-80a0-0b1ac9e8403f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabs-1&quot;)/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-99416aa&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-c18272d cea-view-default elementor-widget elementor-widget-ceafeaturebox&quot;]/div[@class=&quot;elementor-widget-container feature-box-wrapper feature-box-default&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-body align-self-center&quot;]/h6[@class=&quot;feature-box-title&quot;]</value>
+      <webElementGuid>b0e45cb2-3fe5-4db2-aaa7-a5257c39b4bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='tabs-1']/div[2]/div/div/div[2]/div/div/div[2]/h6</value>
+      <webElementGuid>64e4b432-aeba-47e5-9b73-7ea77ff7bf99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Digitize Every HR Process, Enhance Efficiency'])[1]/following::h6[1]</value>
+      <webElementGuid>d4629bdf-f0b0-4aaa-b90f-492bbbad464a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phiro Class'])[2]/following::h6[1]</value>
+      <webElementGuid>a6a05820-bce0-4efd-af48-5e78dd41bfcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee self service submission'])[1]/preceding::h6[1]</value>
+      <webElementGuid>b935ecad-a6ab-422e-b3d9-9756586f6fb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activity Tracker'])[1]/preceding::h6[2]</value>
+      <webElementGuid>a629f070-d066-4a8a-ba2d-a8da3d927bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage employee absenteeism']/parent::*</value>
+      <webElementGuid>96c7a1f5-9155-43b6-926c-dbba7f7c763a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h6</value>
+      <webElementGuid>a6fd796e-4ec1-413d-baf8-8ea0583d8327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Manage employee absenteeism' or . = 'Manage employee absenteeism')]</value>
+      <webElementGuid>40c3837a-7ffb-4bf6-b926-2a13f348ab76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

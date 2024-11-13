@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_SubMenuPhiroGo</name>
+   <tag></tag>
+   <elementGuidId>36f63f04-3856-4f99-9acc-027164ca0bd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-24489']/div/div/div/section[5]/div[2]/div/div/div/div/div/a/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.cea-tab-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Phiro Go&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>d9b251d9-48a6-46f1-bb68-503e0a3a2c60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cea-tab-title</value>
+      <webElementGuid>c54dfc11-edd1-4b8c-9c7c-044f781829b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phiro Go</value>
+      <webElementGuid>47e54482-b0f3-4db6-b427-ed48ab9d0486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-24489&quot;)/div[@class=&quot;post-inner&quot;]/div[@class=&quot;entry-content&quot;]/div[@class=&quot;elementor elementor-24489&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-c372f6f elementor-section-content-middle elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1eab8b6&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-f2a4c73 elementor-widget elementor-widget-ceatab&quot;]/div[@class=&quot;elementor-widget-container cea-tab-elementor-widget tab-style-2 cea-vertical-tab&quot;]/div[@class=&quot;nav nav-tabs cea-tabs&quot;]/a[@class=&quot;nav-item nav-link&quot;]/h5[@class=&quot;cea-tab-title&quot;]</value>
+      <webElementGuid>88c7efb4-0ee3-4c36-af94-c8fce9e14d71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-24489']/div/div/div/section[5]/div[2]/div/div/div/div/div/a/h5</value>
+      <webElementGuid>233d8245-d2d2-4b77-8bce-1cea2d030ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ekosistem Phiraka'])[1]/following::h5[1]</value>
+      <webElementGuid>985d9dc7-fff4-409c-9e31-af6c68b0f417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kami menyediakan bantuan dari tenaga ahli nyata, bukan hanya bot otomatis.'])[1]/following::h5[1]</value>
+      <webElementGuid>78daa3c9-c305-4a6c-82e0-4b7485fc3e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phiro HCMS'])[1]/preceding::h5[1]</value>
+      <webElementGuid>2c19d137-e22d-4a9c-9e33-0af2a36005e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HS Asses'])[2]/preceding::h5[2]</value>
+      <webElementGuid>3a445cc0-9c35-499a-8bc2-7844c3285256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>947f9eeb-5bcd-4be0-b3a2-53e7745d35d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Phiro Go' or . = 'Phiro Go')]</value>
+      <webElementGuid>adb2ee13-3b37-441b-92fd-d912718cb6af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

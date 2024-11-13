@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_SubMenuPhiroHCMS</name>
+   <tag></tag>
+   <elementGuidId>fbc56411-0c0e-44f8-94eb-4112e98fd520</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-24489']/div/div/div/section[5]/div[2]/div/div/div/div/div/a[2]/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Phiro HCMS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>ae307585-e7f6-498c-8822-c8320b620d03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cea-tab-title</value>
+      <webElementGuid>02b384e0-31c6-4115-a5e2-67a3aa7e74ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phiro HCMS</value>
+      <webElementGuid>621cace4-814b-4ba3-b9f6-8e98c5c5c93f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-24489&quot;)/div[@class=&quot;post-inner&quot;]/div[@class=&quot;entry-content&quot;]/div[@class=&quot;elementor elementor-24489&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-c372f6f elementor-section-content-middle elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-default&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1eab8b6&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-f2a4c73 elementor-widget elementor-widget-ceatab&quot;]/div[@class=&quot;elementor-widget-container cea-tab-elementor-widget tab-style-2 cea-vertical-tab&quot;]/div[@class=&quot;nav nav-tabs cea-tabs&quot;]/a[@class=&quot;nav-item nav-link&quot;]/h5[@class=&quot;cea-tab-title&quot;]</value>
+      <webElementGuid>8982e57a-98ee-40eb-b5a0-dbe1a168c0ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-24489']/div/div/div/section[5]/div[2]/div/div/div/div/div/a[2]/h5</value>
+      <webElementGuid>5140d546-b4c7-4577-8f72-7ac7666e0e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phiro Go'])[3]/following::h5[1]</value>
+      <webElementGuid>154eca64-bb39-465e-adc4-cf7b748d2d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ekosistem Phiraka'])[1]/following::h5[2]</value>
+      <webElementGuid>8d4fcb30-cdcd-4819-8dae-9545b5629eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HS Asses'])[2]/preceding::h5[1]</value>
+      <webElementGuid>d8b89bed-eede-453b-99e6-74f997b30355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solpay'])[3]/preceding::h5[2]</value>
+      <webElementGuid>7e2461c8-2183-4190-81ff-d6d3a0e43644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Phiro HCMS']/parent::*</value>
+      <webElementGuid>256417b3-915d-4d44-b5a0-f7e41859ba09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/h5</value>
+      <webElementGuid>066cb153-7a65-4adc-aeee-1a89e6675c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Phiro HCMS' or . = 'Phiro HCMS')]</value>
+      <webElementGuid>ce00c21a-29c3-449d-9b3f-7e15cf029547</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
